@@ -189,9 +189,9 @@ Les compétences acquises en SQL et en modélisation de données contribuent dir
 
 Ce projet m’a également permis de développer ma rigueur, ma logique et ma capacité à travailler sur des cas concrets proches du monde professionnel.
 
-![Image patients](image/Screenshot(2).png)
+![Image patients](Screenshot(2).png)
 
-![Image patients](image/Screenshot(3).png)
+![Image patients](Screenshot(3).png)
 # 🏫 Projet Principal : Infrastructure Réseau – Établissement “Petit Prince”
 
 ## 📌 Contexte
@@ -224,7 +224,7 @@ Projet de conception et de déploiement d’un réseau informatique pour un éta
 * Accès sécurisé
 * Bonne organisation
 
-![schéma réseau](image/Screenshot.png)
+![schéma réseau](Screenshot.png)
 
 # 🚀 Conclusion
 
